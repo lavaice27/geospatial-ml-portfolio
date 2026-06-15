@@ -39,7 +39,7 @@ The four clusters map cleanly onto Thailand's four conventional regions:
 - Central: Bangkok area, Saraburi, Nakhon Pathom
 - South: Phuket, Hat Yai, Yala
 
-![Thai cities clustered into four regions](Thailandmapclusters.png)
+![Thai cities clustered into four regions](01-thai-cities-clustering/images/Thailandmapclusters.png)
 
 ### Key insight
 An unsupervised algorithm reconstructed Thailand's regional geography with no
